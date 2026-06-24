@@ -1,1 +1,6 @@
-sc.bat
+/*
+!/.gitignore
+
+!/Art/
+!/Data/
+!/Window/
